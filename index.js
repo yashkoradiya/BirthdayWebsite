@@ -294,7 +294,7 @@ function reveal() {
   }
 
   var x = document.createElement("IMG");
-  x.setAttribute("src", "C:/Users/Yash.Koradiya/Downloads/Your Birthday/Birthday/Birthday/Assest/pic/Image 4.jpg");
+  x.setAttribute("src", "Assest/pic/Image 4.jpg");
   x.setAttribute("width", "350");
   x.setAttribute("height", "350");
   x.setAttribute("alt", "Love You");
